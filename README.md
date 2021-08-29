@@ -1,5 +1,5 @@
 ## :computer: Software Developer :grinning:
- <div>
+ <div align="center">
   <a href="https://github.com/Danilo-DS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danilo-DS&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-DS&layout=compact&langs_count=7&theme=dark"/>
@@ -20,7 +20,10 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/danilo-silva-3489311b4" target="_blank"><img src="https://img.shields.io/badge/--%230077B5?style=flat&logo=linkedin" target="_blank"></a> 
-  <div align="center"> 
-  ![Loading Dino](https://github.com/Danilo-DS/Danilo-DS/blob/main/assert/loading-dino.gif)
-  </div>
+
+ ##
+  <img align="center" alt="DS-Redis" height="250" width="100%" src="https://github.com/Danilo-DS/Danilo-DS/blob/main/assert/loading-dino.gif">
 </div>
+ 
+ 
+ 
