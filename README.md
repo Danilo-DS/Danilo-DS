@@ -21,6 +21,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/danilo-silva-3489311b4" target="_blank"><img src="https://img.shields.io/badge/--%230077B5?style=flat&logo=linkedin" target="_blank"></a> 
  
-  ![Loading Dino](https://github.com/Danilo-DS/danilods/blob/master/assert/loading-dino.gif)
+  ![Loading Dino](https://github.com/Danilo-DS/Danilo-DS/blob/main/assert/loading-dino.gif)
  
 </div>
