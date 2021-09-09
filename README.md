@@ -23,7 +23,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/danilo-silva-3489311b4" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="mailto:danilosyllva.16@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="mailto:danilo_syllva@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+ <a href="mailto:danilo_syllva@outlook.com" target="_blank"> <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  
  ##
   <img align="center" alt="DS-Redis" height="250" width="100%" src="https://github.com/Danilo-DS/Danilo-DS/blob/main/assert/loading-dino.gif">
